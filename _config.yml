@@ -1,0 +1,28 @@
+name: samgrid1
+favicon: null
+layout_spectrum: 0.5236073285341263
+typography_spectrum: 0.07912830915302038
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8476848520804197
+  lightness: 0.523537538247183
+  saturation: 0.6827270046342164
+  rhythmicContrast: 0.5616044411435723
+purpose: []
